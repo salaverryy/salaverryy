@@ -22,6 +22,7 @@ Aquí están algunos de mis Titulos más destacados:
 | Ingles (B2)                 | Ies 1 Las Rozas           | 2021  |
 | Manejo de Alimnetos         | Damito                    | 2024  |
 
+
 ## 😄 Aptitudes 
 - Aprendizaje constante
 - Dominio tecnologico
@@ -29,4 +30,6 @@ Aquí están algunos de mis Titulos más destacados:
 - Puntualidad y responsabilidad
 - Buena atencion al cliente
 
+## Linkedin
+Linkedin https://www.linkedin.com/in/andrés-salaverry-493bb6299)
 
