@@ -1,10 +1,11 @@
-## Hi there 👋
+# Hola soy Andres Salaverry, ven a conocerme 👋
 
-<!--
-**salaverryy/salaverryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soy una persona con muchos objetivos en mente y sobretodo ha aprender constantemente.
 
-Here are some ideas to get you started:
-
+## ⚡ Aficiones
+- Juego al futbol en un quipo en las Rozas, y le dedico 4 dias a la semana por la tarde.
+- Suelo estudiar y buscar informacion sobre la ciberseguridad.
+- Ademas me encanta jugar videojuegos como el fifa
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
