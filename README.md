@@ -10,24 +10,23 @@
 - Me gusta producir musica y componer.
 
 ## 💬 Estudios
-- Estudio en el ciclo fomrativo de ASIR en segundo año en la u-tad.
-- # 📜 Mis Titulos
+Estudio en el ciclo fomrativo de ASIR en segundo año en la u-tad, cursando el primer año en el respectivo centro.
+  ### 📜 Mis Titulos
 
 Aquí están algunos de mis Titulos más destacados:
 
 | **Título**                  | **Institución**             | **Año** |
-|-----------------------------|-----------------------------|---------|
-| ESO                         | [Ies 1 Las Rozas]           | [2021]  |
-| Bachillerato                | [Ies 1 Las Rozas]           | [2023]  |
-| Ingles (B2)                 | [Ies 1 Las Rozas]           | [2021]  |
-| Manejo de Alimnetos         | [Damito]                    | [2024]  |
+|:--------------------------- |:---------------------------:|--------:|
+| ESO                         | Ies 1 Las Rozas           | 2021  |
+| Bachillerato                | Ies 1 Las Rozas           | 2023  |
+| Ingles (B2)                 | Ies 1 Las Rozas           | 2021  |
+| Manejo de Alimnetos         | Damito                    | 2024  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 😄 Aptitudes 
+- Aprendizaje constante
+- Dominio tecnologico
+- Trabajo en equipo
+- Puntualidad y responsabilidad
+- Buena atencion al cliente
 
--->
+
